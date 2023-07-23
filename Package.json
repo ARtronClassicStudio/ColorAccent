@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.coloraccent",
+  "displayName": "Color Accent",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "",
+  "license": "MIT",
+  "keywords": [ "tools", "rendering", "URP" ],
+  "dependencies": {},
+  "author": { "name": "Unity" }
+}
