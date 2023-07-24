@@ -5,7 +5,7 @@
 Copy and paste in Package Manager:
 
 ```C#
-https://github.com/ARtronClassicStudio/Crepuscular-URP.git](https://github.com/ARtronClassicStudio/ColorAccent.git)
+https://github.com/ARtronClassicStudio/ColorAccent.git
 ```
 
 
