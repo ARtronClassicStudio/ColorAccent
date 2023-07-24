@@ -1,10 +1,5 @@
 # Color Accent-URP
-
-
-
-https://user-images.githubusercontent.com/68843488/226691739-b9a3eb28-210b-47bc-8d2a-988a45d48b9f.mp4
-
-
+![image](https://github.com/ARtronClassicStudio/ColorAccent/assets/68843488/92803a5f-dd87-4134-b1b6-f6beb01f0c96)
 
 # Installation:
 Copy and paste in Package Manager:
@@ -12,7 +7,8 @@ Copy and paste in Package Manager:
 ```C#
 https://github.com/ARtronClassicStudio/Crepuscular-URP.git
 ```
-![image](https://user-images.githubusercontent.com/68843488/226684938-018e2bd4-7abd-478c-b29f-c84c7bae7bb2.png)
+
+
 
 Wait for compilation and this will complete the installation of the package.
 
