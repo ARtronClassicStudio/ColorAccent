@@ -1,4 +1,7 @@
 # Color Accent-URP
+
+[Support for HDRP](https://github.com/ARtronClassicStudio/ColorAccent-HDRP)
+
 ![image](https://github.com/ARtronClassicStudio/ColorAccent/assets/68843488/92803a5f-dd87-4134-b1b6-f6beb01f0c96)
 
 # Installation:
@@ -30,6 +33,3 @@ Next select your Global Volume and add "Color Accent" and turn it on. :
 Effect settings are intuitive and easy, without any complexity.
 
 ![image](https://github.com/ARtronClassicStudio/ColorAccent/assets/68843488/081aae9c-6708-43ab-8996-324dd7fe5fc1)
-
-
-There is also support for HDRP and Built-in but they will come later.
